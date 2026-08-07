@@ -57,6 +57,3 @@ I specialize in creating reliable, scalable, and user-friendly WordPress solutio
 ## 📫 Contact
 
 Email: anahit.salmast@gmail.com
-
-Portfolio:
-https://davidsamvelyan.com
