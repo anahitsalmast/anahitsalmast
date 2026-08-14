@@ -56,18 +56,19 @@ Websites I have developed and contributed to:
 
 | Project | URL |
 |---|---|
-| NovaVan | https://novavan.am |
 | BestWay Tour | https://bestway-tour.com |
-| David Samvelyan Website | https://davidsamvelyan.com |
-| Enjoy Armenia | https://enjoyarmenia.am/|
+| Green Herbs International | https://greenherbsinternational.com |
 | Bamboo Party | https://bamboo-party.com/|
 | Merci Perfume | https://merciperfume.com |
+| Sign Zone LA | https://signzonela.com |
+| Home Deco Corp | https://homedecocorp.com |
+| David Samvelyan Website | https://davidsamvelyan.com |
+| Enjoy Armenia | https://enjoyarmenia.am/|
+| NovaVan | https://novavan.am |
 | Hundred MS | https://hundredms.com |
 | AYB Ben | https://aybben.com |
 | Medicare | https://medicare.am |
-| Green Herbs International | https://greenherbsinternational.com |
-| Sign Zone LA | https://signzonela.com |
-| Home Deco Corp | https://homedecocorp.com |
+
 
 
 ---
