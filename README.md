@@ -33,6 +33,7 @@ I specialize in WordPress development, custom functionality, performance optimiz
 - Git
 - Figma
 - Google Analytics
+- Google Search Console
 
 ---
 
@@ -44,7 +45,7 @@ I specialize in WordPress development, custom functionality, performance optimiz
 - Custom post types and fields
 - API integrations
 - Payment integrations
-- Multilingual websites (Polylang)
+- Multilingual websites (WPML, Polylang)
 - Website performance optimization
 - Bug fixing and maintenance
 
