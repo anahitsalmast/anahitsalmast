@@ -68,7 +68,6 @@ Websites I have developed and contributed to:
 | Green Herbs International | https://greenherbsinternational.com |
 | Sign Zone LA | https://signzonela.com |
 | Home Deco Corp | https://homedecocorp.com |
-| JAH | https://jah.am |
 
 
 ---
